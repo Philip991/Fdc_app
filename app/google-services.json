@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84664846765",
+    "firebase_url": "https://assessment-app-6ba4d-default-rtdb.firebaseio.com",
+    "project_id": "assessment-app-6ba4d",
+    "storage_bucket": "assessment-app-6ba4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84664846765:android:fa0ef5ef2400d9c0693924",
+        "android_client_info": {
+          "package_name": "com.example.fdcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84664846765-65s25e2s24jl1ahovnu5l7bskj2t172e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77275PP86u_R9AtGZKI0m-R4TfIdZrB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84664846765-65s25e2s24jl1ahovnu5l7bskj2t172e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
